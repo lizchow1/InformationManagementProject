@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<database>
+<thirdpartyvendor>
+    <user.full_name> Killmain Biodegradable Waste Centre </user.full_name>
+    <user.ID> 1122 </user.ID>
+    <user.user_name> KillmainBWC </user.user_name>
+    <user.address> <Address idref="12ab"/> </user.address>
+    <user.IBAN> IE64IRCE92050112345678 </user.IBAN>
+    <user.BIC> IRCE92 </user.BIC>
+    <user.user_bank_name> Irish Central Bank </user.user_bank_name>
+    <user.phone_number> 012348762</user.phone_number>
+    <thirdpartyvendor.waste_type> Biodegradable </thirdpartyvendor.waste_type>
+</thirdpartyvendor>
+
+<thirdpartyvendor>
+    <user.full_name> </user.full_name>
+    <user.ID> </user.ID>
+    <user.user_name> </user.user_name>
+    <user.address> <Address idref=" "/> </user.address>
+    <user.IBAN> </user.IBAN>
+    <user.BIC> </user.BIC>
+    <user.user_bank_name> </user.user_bank_name>
+    <user.phone_number> </user.phone_number>
+    <thirdpartyvendor.waste_type> </thirdpartyvendor.waste_type>
+</thirdpartyvendor>
+
+</database>
